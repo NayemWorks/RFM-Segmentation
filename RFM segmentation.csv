@@ -1,0 +1,93 @@
+customername,last_order_date,RECENCY_VALUE,FREQUENCY_VALUE,MONETARY_VALUE,Total_quantity_ordered,R_Score,F_Score,M_Score,Total_RFM_Score,RFM_Combination,Customer_Segment
+Boards & Toys Co.,08/02/2005,112,2,9129,102,4,2,1,7,421,Promising
+Atelier graphique,25/11/2004,187,3,24180,270,3,3,1,7,331,Needs Attention
+Auto-Moto Classics Inc.,03/12/2004,179,3,26479,287,3,3,1,7,331,Needs Attention
+Microscale Inc.,03/11/2004,209,2,33145,381,2,1,1,4,211,New Customers
+Royale Belge,10/01/2005,141,4,33440,278,4,5,1,10,451,Potential Loyalist
+"Bavarian Collectables Imports, Co.",15/09/2004,258,1,34994,401,1,1,1,3,111,Lost Customers
+"Double Decker Gift Stores, Ltd",22/01/2004,495,2,36019,357,1,1,1,3,111,Lost Customers
+Cambridge Collectables Co.,08/05/2004,388,2,36164,357,1,1,1,3,111,Lost Customers
+West Coast Collectables Co.,29/01/2004,488,2,46085,511,1,1,1,3,111,Lost Customers
+"Men 'R' US Retailers, Ltd.",09/01/2004,508,2,48048,500,1,1,1,3,111,Lost Customers
+CAF Imports,19/03/2004,438,2,49642,468,1,1,1,3,111,Lost Customers
+Signal Collectibles Ltd.,10/02/2004,476,2,50219,514,1,1,1,3,111,Lost Customers
+Mini Auto Werke,10/03/2005,82,3,52264,532,4,4,1,9,441,Promising
+"Iberia Gift Imports, Corp.",06/10/2004,237,2,54724,589,2,2,1,5,221,Needs Attention
+Online Mini Collectables,10/09/2004,263,2,57198,572,1,1,1,3,111,Lost Customers
+Gift Ideas Corp.,04/12/2004,178,3,57294,666,3,3,1,7,331,Needs Attention
+"Clover Collections, Co.",16/09/2004,257,2,57756,490,2,2,1,5,221,Needs Attention
+"Australian Gift Network, Co",02/02/2005,118,3,59469,545,4,4,1,9,441,Promising
+"Australian Collectables, Ltd",09/05/2005,22,3,64591,705,5,2,1,8,521,Promising
+Auto Assoc. & Cie.,11/10/2004,232,2,64834,637,2,2,2,6,222,Needs Attention
+"Classic Gift Ideas, Inc",14/10/2004,229,2,67507,668,2,2,2,6,222,Needs Attention
+Osaka Souveniers Co.,13/04/2004,413,2,67605,692,1,1,2,4,112,Lost Customers
+Daedalus Designs Imports,21/02/2004,465,2,69052,699,1,1,2,4,112,Lost Customers
+Alpha Cognac,28/03/2005,64,3,70488,687,4,4,2,10,442,Promising
+Diecast Collectables,26/04/2004,400,2,70860,695,1,1,2,4,112,Lost Customers
+Quebec Home Shopping Network,01/05/2005,30,3,74205,717,5,4,2,11,542,Potential Loyalist
+Mini Wheels Co.,18/11/2004,194,3,74476,692,3,3,2,8,332,Needs Attention
+"Royal Canadian Collectables, Ltd.",20/08/2004,284,2,74635,873,1,1,2,4,112,Lost Customers
+Marseille Mini Autos,06/01/2005,145,3,74936,804,3,3,2,8,332,Needs Attention
+Petit Auto,30/05/2005,1,3,74973,796,5,2,2,9,522,Promising
+Canadian Gift Exchange Network,22/10/2004,221,2,75239,703,2,2,2,6,222,Needs Attention
+"Volvo Model Replicas, Co",19/11/2004,193,4,75755,647,3,5,2,10,352,Promising
+Classic Legends Inc.,21/11/2004,191,3,77795,720,3,3,2,8,332,Needs Attention
+giftsbymail.co.uk,01/11/2004,211,2,78241,895,2,1,2,5,212,Needs Attention
+Enaco Distributors,24/11/2004,188,3,78412,882,3,3,2,8,332,Needs Attention
+Lyon Souveniers,17/03/2005,75,3,78570,684,4,4,2,10,442,Promising
+"Norway Gifts By Mail, Co.",21/08/2004,283,2,79224,787,1,1,2,4,112,Lost Customers
+Super Scale Inc.,04/05/2004,392,2,79472,636,1,1,2,4,112,Lost Customers
+Mini Caravy,14/04/2005,47,3,80438,779,5,4,3,12,543,Potential Loyalist
+Collectables For Less Inc.,20/01/2005,131,3,81578,795,4,3,3,10,433,Loyal Customers
+Signal Gift Stores,29/11/2004,183,3,82751,929,3,3,3,9,333,Needs Attention
+Gifts4AllAges.com,06/05/2005,25,3,83210,933,5,4,3,12,543,Potential Loyalist
+Tekni Collectables Inc.,03/04/2005,58,3,83228,906,4,4,3,11,443,Loyal Customers
+Motor Mint Distributors Inc.,17/11/2004,195,3,83682,730,3,3,3,9,333,Needs Attention
+"Blauer See Auto, Co.",05/11/2004,207,4,85172,811,2,4,3,9,243,At Risk
+Mini Classics,15/10/2004,228,2,85556,929,2,2,3,7,223,Needs Attention
+Collectable Mini Designs Co.,26/02/2004,460,2,87489,954,1,1,3,5,113,Lost Customers
+Vitachrome Inc.,05/11/2004,207,3,88041,787,2,2,3,7,223,Needs Attention
+"Stylish Desk Decors, Co.",03/12/2004,179,3,88804,937,3,3,3,9,333,Needs Attention
+Auto Canal Petit,07/04/2005,54,3,93171,1001,4,4,3,11,443,Loyal Customers
+Cruz & Sons Co.,16/11/2004,196,3,94016,961,2,3,3,8,233,Needs Attention
+Amica Models & Co.,09/09/2004,264,2,94117,843,1,1,3,5,113,Lost Customers
+"La Corne D'abondance, Co.",20/11/2004,192,3,97204,836,3,3,3,9,333,Needs Attention
+FunGiftIdeas.com,03/03/2005,89,3,98924,903,4,4,3,11,443,Loyal Customers
+"Toms Spezialitten, Ltd",16/10/2004,227,2,100307,936,2,2,3,7,223,Needs Attention
+Heintze Collectables,22/10/2004,221,2,100596,882,2,2,3,7,223,Needs Attention
+Gift Depot Inc.,05/05/2005,26,3,101895,903,5,4,4,13,544,Champions
+Marta's Replicas Co.,13/10/2004,230,2,103080,976,2,2,4,8,224,At Risk
+"Oulu Toy Supplies, Inc.",31/01/2005,120,3,104370,1110,4,3,4,11,434,Loyal Customers
+Toys4GrownUps.com,12/01/2005,139,3,104562,1060,4,3,4,11,434,Loyal Customers
+Mini Creations Ltd.,07/01/2005,144,3,108951,1140,3,3,4,10,334,Loyal Customers
+"Toys of Finland, Co.",09/02/2005,111,3,111250,1051,4,4,4,12,444,Loyal Customers
+Herkku Gifts,03/09/2004,270,3,111640,973,1,2,4,7,124,Lost Customers
+Suominen Souveniers,06/01/2005,145,3,113961,1031,3,3,4,10,334,Loyal Customers
+Handji Gifts& Co,23/04/2005,38,4,115499,1236,5,5,4,14,554,Champions
+Baane Mini Imports,05/11/2004,207,4,116599,1082,2,4,4,10,244,At Risk
+"Vida Sport, Ltd",30/08/2004,274,2,117714,1078,1,1,4,6,114,Lost Customers
+"UK Collectables, Ltd.",08/04/2005,53,3,118008,1046,5,4,4,13,544,Champions
+"Tokyo Collectables, Ltd",22/04/2005,39,4,120563,1150,5,5,4,14,554,Champions
+"Corrida Auto Replicas, Ltd",01/11/2004,211,3,120615,1163,2,2,4,8,224,At Risk
+Technics Stores Inc.,05/01/2005,146,4,120783,1179,3,4,4,11,344,Loyal Customers
+Diecast Classics Inc.,30/05/2005,1,4,122138,1111,5,5,4,14,554,Champions
+Online Diecast Creations Co.,04/11/2004,208,3,131685,1248,2,2,4,8,224,At Risk
+Scandinavian Gift Ideas,03/03/2005,89,3,134259,1359,4,4,4,12,444,Loyal Customers
+Reims Collectables,30/03/2005,62,5,135043,1433,4,5,5,14,455,Champions
+Rovelli Gifts,12/11/2004,200,3,137956,1650,2,2,5,9,225,At Risk
+L'ordine Souveniers,10/05/2005,21,3,142601,1280,5,2,5,12,525,Loyal Customers
+"Saveley & Henriot, Co.",02/03/2004,455,3,142874,1428,1,2,5,8,125,Lost Customers
+Danish Wholesale Imports,15/04/2005,46,5,145042,1315,5,5,5,15,555,Champions
+Salzburg Collectables,17/05/2005,14,4,149799,1442,5,5,5,15,555,Champions
+Corporate Gift Ideas Co.,23/02/2005,97,4,149883,1447,4,5,5,14,455,Champions
+Souveniers And Things Co.,29/05/2005,2,4,151571,1601,5,5,5,15,555,Champions
+"Anna's Decorations, Ltd",09/03/2005,83,4,153996,1469,4,5,5,14,455,Champions
+"AV Stores, Co.",17/11/2004,195,3,157808,1778,3,3,5,11,335,Loyal Customers
+The Sharp Gifts Warehouse,22/04/2005,39,4,160010,1656,5,5,5,15,555,Champions
+Land of Toys Inc.,15/11/2004,197,4,164069,1631,2,4,5,11,245,At Risk
+"Dragon Souveniers, Ltd.",02/03/2005,90,5,172990,1524,4,5,5,14,455,Champions
+La Rochelle Gifts,31/05/2005,0,4,180125,1832,5,5,5,15,555,Champions
+Muscle Machine Inc,01/12/2004,181,4,197737,1775,3,5,5,13,355,Loyal Customers
+"Australian Collectors, Co.",29/11/2004,183,5,200995,1926,3,5,5,13,355,Loyal Customers
+Mini Gifts Distributors Ltd.,29/05/2005,2,17,654858,6366,5,5,5,15,555,Champions
+Euro Shopping Channel,31/05/2005,0,26,912294,9327,5,5,5,15,555,Champions
